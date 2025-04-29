@@ -1,0 +1,1 @@
+sudo tc qdisc del dev wlo1 root
